@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+```
+<img src="under_construction.gif" width="640px"/>
+<marquee>Welcome to my GeoCities!</marquee>
+```
+
 <!--
 **lambdageek/lambdageek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
