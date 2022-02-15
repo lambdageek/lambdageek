@@ -19,3 +19,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+```mermaid
+flowchart LR
+  w("☕") --> eb("🥓")
+  eb --> wc("💻") 
+  wc --> eb2("🥓🥓")
+  eb2 --> s("😴")
+  s --> w
+```
