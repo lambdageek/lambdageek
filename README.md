@@ -28,3 +28,5 @@ flowchart LR
   eb2 --> s("😴")
   s --> w
 ```
+
+<a rel="me" href="https://mastodon.social/@lambdageek">.</a>
