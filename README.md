@@ -29,4 +29,3 @@ flowchart LR
   s --> w
 ```
 
-<a rel="me" href="https://mastodon.social/@lambdageek">.</a>
