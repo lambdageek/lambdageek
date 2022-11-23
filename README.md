@@ -29,3 +29,4 @@ flowchart LR
   s --> w
 ```
 
+[🏚️](http://www.lambdageek.org/aleksey) [📠](https://lambdageek.dev/)
